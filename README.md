@@ -10,19 +10,19 @@
 - Сформулировать и проверить гипотезы, основываясь на имеющихся признаках.
 - Построить дашборд 
 
-## Используемые библиотеки
-- pandas
-- json
-- dill (pickle)
-- requests
-- os
-- google.colab 
-- re
-- matplotlib.pyplot
-- tqdm 
-- warnings
-- time 
-  
+## Используемые библиотеки и инструменты
+-  python,
+-  pandas,
+-  numpy,
+-  scipy,
+-  statistics,
+-  matplotlib,
+-  os,
+-  google.colab,
+-  requests,
+-  dill,
+-  json,
+-  DataLens
 
 ## Выводы. Сформировали и проверили гипотезы:
 - В большинстве случаев виноваты пьяные водители, нужно усилить контроль:
